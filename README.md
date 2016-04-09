@@ -17,12 +17,6 @@ You must also include enough documentation so that a novice user could use your 
 The documentation should be at the Shiny website itself. Do not post to an external link.
 The Shiny application in question is entirely up to you. However, if you're having trouble coming up with ideas, you could start from the simple prediction algorithm done in class and build a new algorithm on one of the R datasets packages. Please make the package simple for the end user, so that they don't need a lot of your prerequisite knowledge to evaluate your application. You should emphasize a simple project given the short time frame.  
 
-
-#MTCAR DATASET
-You work for Motor Trend, a magazine about the automobile industry. Looking at a data set of a collection of cars, they are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in the following two questions:
-
-“Is an automatic or manual transmission better for MPG” "Quantify the MPG difference between automatic and manual transmissions"
-
 #PART 2 - REPRODUCIBLE PITCH PRESENTATION
 
 OK, you've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide)  to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
